@@ -58,6 +58,9 @@ Doe	John	85	90	78	B
 Smith	Jane	92	88	95	A 
 Averages: Midterm1 88.50, Midterm2 89.00, Final 86.50
 ```
+
+This application serves a very niche purpose and is not easily modified to fufill any other application purpose.
+
 ## Contributions
 Eric Keeton
 
